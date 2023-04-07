@@ -1,5 +1,7 @@
 ﻿# Yapay_Zeka_Veri_Bilim
  
+ https://colab.research.google.com/
+ 
  Yapay Zeka Eğitimi Nedir?
 Yapay zeka eğitimi, teknolojinin hızla geliştiği dünyamızda bilgisayarların ve robotların insan zekâsıyla benzer şekilde düşünme, öğrenme ve karar verme yeteneklerine sahip olmalarını sağlayan yöntemlerin öğretildiği, uygulamalı ve sertifikalı bir eğitim programıdır.
 
